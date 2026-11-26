@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Barlow", system-ui, sans-serif;
+  --color-navy: #1e293b;
+  --color-brand: #f5b800;
+  --color-brand-soft: #fef3c7;
+  --color-page: #eef1f5;
+}
